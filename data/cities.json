@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "id": "558a",
+      "cityName": "Silleda",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T13:45:39.308Z",
+      "notes": "",
+      "position": {
+        "lat": "42.74701217318067",
+        "lng": "-8.261718750000002"
+      }
+    },
+    {
+      "id": "82b9",
+      "cityName": "Almodovar del Campo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T13:56:08.704Z",
+      "notes": "",
+      "position": {
+        "lat": "38.685509760012025",
+        "lng": "-4.746093750000001"
+      }
+    },
+    {
+      "id": "be3f",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-17T14:01:53.352Z",
+      "notes": "",
+      "position": {
+        "lat": "40.00710561609953",
+        "lng": "-0.07295608520507814"
+      }
+    }
+  ]
+}
